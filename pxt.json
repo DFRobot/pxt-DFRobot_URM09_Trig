@@ -1,0 +1,22 @@
+{
+    "name": "DFRobt_URM09_Trig",
+    "version": "0.0.3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "_locales/zh-cn/DFRobt_URM09_Trig-strings.json",
+        "README.md",
+        "trig.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
